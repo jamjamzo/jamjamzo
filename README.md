@@ -7,6 +7,8 @@
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
+![jamjamzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamjamzo&theme=shades-of-purple&show_icons=true)
+
 <!--
 **jamjamzo/jamjamzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
